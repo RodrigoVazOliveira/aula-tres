@@ -1,4 +1,4 @@
-package br.com.zup.aulatres.controllers;
+package br.com.zup.aulatres.models;
 
 import java.util.List;
 
